@@ -1,0 +1,6 @@
+git checkout main           // checks out to main
+git pull                   // pulls any changes done to the repo 
+git merge <your-edited-bramch> // merges your branch with main
+git push origin main          // pushes to github repo
+
+
